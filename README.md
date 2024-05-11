@@ -1,4 +1,4 @@
-# Hotel Management Application Features
+# The Wild Oasis - web app
 https://oasisdemo.vercel.app
 
 
